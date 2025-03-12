@@ -1,4 +1,4 @@
-# Curriculum
+# Curriculum_dashboard
 
 📊 Análisis de mi experiencia profesional con Power BI
 
