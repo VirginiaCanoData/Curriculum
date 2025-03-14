@@ -23,9 +23,9 @@ Contenido del repositorio:
 - Dashboard Virginia Cano-data analyst.pdf → Informe filtrado para análisis de datos
 
 Cómo visualizar el informe:
-1. Descarga el archivo Informe_CV.pbix
+1. Descarga el archivo Dashboard Virginia Cano.pbix
 2. Ábrelo con Power BI Desktop
-3. Explora el dashboards y visualizaciones
+3. Explora el dashboards y genera las visualizaciones que desees
 
 Comentarios y feedback
 ¡Cualquier sugerencia o feedback es bienvenido! 😊 Puedes contactarme a través de LinkedIn o abrir un issue en este repositorio.
