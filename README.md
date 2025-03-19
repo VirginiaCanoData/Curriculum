@@ -6,6 +6,7 @@
 
 
 Descripción
+
 Este proyecto es un dashboard en Power BI basado en los datos de mi trayectoria profesional. El objetivo es presentar de manera visual y estructurada mis habilidades, experiencia laboral y conocimientos en herramientas de análisis de datos.
 
 A través de este informe, se pueden explorar:
