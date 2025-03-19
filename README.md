@@ -2,6 +2,9 @@
 
 📊 Análisis de mi experiencia profesional con Power BI
 
+![image](https://github.com/user-attachments/assets/c7ba21f7-1be5-421d-b270-95c791fb7a79)
+
+
 Descripción
 Este proyecto es un dashboard en Power BI basado en los datos de mi trayectoria profesional. El objetivo es presentar de manera visual y estructurada mis habilidades, experiencia laboral y conocimientos en herramientas de análisis de datos.
 
